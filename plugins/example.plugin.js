@@ -27,5 +27,5 @@
         factory(jQuery);
     }
 }(function ($) {
-    $.fn.jqueryPlugin = function () { return true; };
+    $.fn.retoolPlusPlus = function () { return true; };
 }));
